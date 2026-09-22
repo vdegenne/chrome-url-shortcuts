@@ -17,6 +17,12 @@
 				"default": "Alt+S"
 			},
 			"description": "Open Settings"
+		},
+		"open-extensions": {
+			"suggested_key": {
+				"default": "Alt+E"
+			},
+			"description": "Open Extensions"
 		}
 	}
 }

@@ -3,6 +3,7 @@ const sites = {
 	github: 'https://github.com/vdegenne?tab=repositories',
 	chatgpt: 'https://chatgpt.com',
 	settings: 'chrome://settings/appearance',
+	extensions: 'chrome://extensions',
 };
 
 chrome.commands.onCommand.addListener(function (command) {
