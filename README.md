@@ -26,7 +26,7 @@ In `"commands"`, add a new entry
 	}
 ```
 
-(`<your shortcut>` : e.g. `Alt+E`)
+(`<your keyboard shortcut>` : e.g. `Alt+E`)
 
 ## Note
 
