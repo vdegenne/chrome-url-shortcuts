@@ -1,8 +1,8 @@
 const sites = {
 	youtube: 'https://youtube.com',
-	github: 'https://github.com',
+	github: 'https://github.com/vdegenne?tab=repositories',
 	chatgpt: 'https://chatgpt.com',
-	settings: 'chrome://settings',
+	settings: 'chrome://settings/appearance',
 };
 
 chrome.commands.onCommand.addListener(function (command) {
