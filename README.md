@@ -22,7 +22,7 @@ In `"commands"`, add a new entry
 		"suggested_key": {
 			"default": "<your keyboard shortcut>"
 		},
-		"description": "..."
+		"description": "<your description>"
 	}
 ```
 
