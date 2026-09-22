@@ -1,0 +1,22 @@
+{
+	"manifest_version": 3,
+	"name": "chrome-url-keybinds",
+	"version": "1.0.0",
+	"background": {
+		"service_worker": "background.js"
+	},
+	"commands": {
+		"open-settings": {
+			"suggested_key": {
+				"default": "Alt+S"
+			},
+			"description": "Open Settings"
+		},
+		"open-github": {
+			"suggested_key": {
+				"default": "Alt+G"
+			},
+			"description": "Open GitHub"
+		}
+	}
+}
