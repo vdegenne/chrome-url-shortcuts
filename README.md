@@ -30,4 +30,4 @@ In `"commands"`, add a new entry
 
 ## Note
 
-Chrome can only register 5 default shortcuts. If you have more than 5 shortcuts, then after the 5th one just remove `"suggested_key"` and go to chrome://extensions/shortcuts to edit them manually.
+Chrome can only register 5 default shortcuts. If you have more than 5 shortcuts, then after the 5th one just remove `"suggested_key"` and go to [chrome://extensions/shortcuts](chrome://extensions/shortcuts) to edit them manually.
